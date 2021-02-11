@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "231461319420",
+    "firebase_url": "https://computer-forms.firebaseio.com",
+    "project_id": "computer-forms",
+    "storage_bucket": "computer-forms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231461319420:android:a5eb3fb634af13d4cadd79",
+        "android_client_info": {
+          "package_name": "com.anthonytepach.computerforms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231461319420-s99n5f1olv08cand3h6bri9lvil9mn93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anthonytepach.computerforms",
+            "certificate_hash": "c35f05351192927c061356f481489a01b7521e62"
+          }
+        },
+        {
+          "client_id": "231461319420-50cheaa4qflenb8pduf3287i0ubvhm0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmSCDw2Gd3KZDs3ndQp27NaQoRvhFJgJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231461319420-50cheaa4qflenb8pduf3287i0ubvhm0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

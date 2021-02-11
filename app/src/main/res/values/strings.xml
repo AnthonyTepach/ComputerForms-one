@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Computer Forms</string>
+    <string name="copy">© 2020 Computer Forms</string>
+    <string name="Bienvenido">Bienvenido</string>
+    <string name="saludo">Hola</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="entra">Entrar</string>
+    <string name="needhelp">¿Necesitas ayuda?</string>
+
+    <string name="ejemplo">Bryan A. Tepach</string>
+    <string name="ejemplo_email">user.mail@domail.com</string>
+
+
+</resources>
